@@ -1,2 +1,3 @@
 # Hello-World
 practice 
+brief description of self: Cam, California, Coding, etc...
